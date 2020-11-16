@@ -1,6 +1,3 @@
-[submodule "Molex-0548190589.pretty"]
-	path = Molex-0548190589.pretty
-	url = https://github.com/ai03-2725/Molex-0548190589.pretty
 [submodule "Type-C.pretty"]
 	path = Type-C.pretty
 	url = https://github.com/ai03-2725/Type-C.pretty
