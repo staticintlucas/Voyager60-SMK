@@ -2,7 +2,7 @@
 
 A fully featured SMK-specific 60% PCB
 
-This is a fork of [ai03's Voyager60-Alps](https://github.com/ai03-2725/Voyager60/tree/alps), adapted for SMK 2nd generation switches.
+This is a fork of [ai03's Voyager60-Alps](https://github.com/ai03-2725/Voyager60/tree/alps), adapted for [SMK 2nd generation](https://deskthority.net/wiki/SMK_second_generation)
 
 ![Render](https://raw.githubusercontent.com/staticintlucas/Voyager60-SMK/master/Renders/Front.png)
 
@@ -18,6 +18,6 @@ This is a fork of [ai03's Voyager60-Alps](https://github.com/ai03-2725/Voyager60
 
 ### Credits
 
-This is a fork of [ai03's Voyager60-Alps](https://github.com/ai03-2725/Voyager60/tree/alps)
+This project is a fork of [ai03's Voyager60-Alps](https://github.com/ai03-2725/Voyager60/tree/alps)
 
 This project borrows some of the compatible layouts from [Hasu's Alps64](https://github.com/tmk/alps64), especially regarding ISO compatibility positions.
